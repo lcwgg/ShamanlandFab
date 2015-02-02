@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/listview" android:title="@string/listview"
+        android:orderInCategory="100" android:showAsAction="never" />
+    <item android:id="@+id/simple_fab" android:title="@string/simple_fab"
+        android:orderInCategory="100" android:showAsAction="never" />
+</menu>
