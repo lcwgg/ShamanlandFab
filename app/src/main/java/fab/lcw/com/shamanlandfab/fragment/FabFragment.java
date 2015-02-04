@@ -19,11 +19,7 @@ public class FabFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.fab_fragment_main, container, false);
-        setData(rootView);
         return rootView;
     }
 
-    private void setData(final View v) {
-
-    }
 }
